@@ -182,7 +182,7 @@
 		<dependency>
 		    <groupId>org.hibernate</groupId>
 		    <artifactId>hibernate-validator</artifactId>
-		    <version>5.2.1.Final</version>
+		    <version>5.3.6.Final</version>
 		</dependency>
 		
 		<!-- 스케줄러(DB, 업로드파일 비교) -->
